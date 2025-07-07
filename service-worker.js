@@ -5,8 +5,8 @@ const filesToCache = [
   "/style.css",
   "/script.js",
   "/manifest.json",
-  "/icon-192x192.png",
-  "/icon-512x512.png"
+  "/icon-192x192.jpg",
+  "/icon-512x512.webp"
 ];
 
 self.addEventListener("install", event => {
